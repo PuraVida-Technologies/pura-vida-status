@@ -18,8 +18,7 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) { btcPriceList(range: $range) { timestamp price { base offset currencyUnit formattedAmount } } }"}'
-
+    body: '{"operationName": "homeUnauthed", "variables": {"range": "ONE_DAY"}, "query": "query homeUnauthed { globals { network } currencyList { id flag name symbol fractionDigits } }"}'
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin

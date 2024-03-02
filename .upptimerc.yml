@@ -19,6 +19,15 @@ sites:
     url: https://admin.puravidabitcoin.io/
   - name: ArgoCD - Pura Vida Bitcoin
     url: https://argocd.puravidabitcoin.io/
+  - name: API Exchange Rates - Pura Vida Bitcoin
+    url: https://api.puravidabitcoin.io/graphql
+    method: POST
+    headers:
+      - "Authority: api.puravidabitcoin.io"
+      - "Content-Type: application/json"
+      - "Origin: https://api.puravidabitcoin.io"
+      - "Pragma: no-cache"
+    body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) {\\n  btcPriceList(range: $range) {\\n    timestamp\\n    price {\\n      base\\n      offset\\n      currencyUnit\\n      formattedAmount\\n    }\\n  }\\n}\\n"}'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

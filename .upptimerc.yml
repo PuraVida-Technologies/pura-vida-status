@@ -13,7 +13,14 @@ sites:
     url: https://merchants.puravidabitcoin.io/
   - name: Pura Vida Market
     url: https://market.puravidabitcoin.io/
-  - name: API - Exchange Rates
+  - name: Pura Vida API
+    url: https://api.puravidabitcoin.io/graphql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) { btcPriceList(range: $range) { timestamp price { base offset currencyUnit formattedAmount } } }"}'
+    __dangerous__body_down: "errors"
+  - name: Pura Vida API - Exchange Rates
     url: https://api.puravidabitcoin.io/graphql
     method: POST
     headers:

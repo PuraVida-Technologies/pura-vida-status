@@ -19,7 +19,7 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"operationName": "homeUnauthed", "variables": {"range": "ONE_DAY"}, "query": "query homeUnauthed { globals { network } currencyList { id flag name symbol fractionDigits } }"}'
-    __dangerous_body_down: "errors"
+    __dangerous__body_down: "errors"
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin

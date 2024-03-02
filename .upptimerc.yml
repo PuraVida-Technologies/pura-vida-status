@@ -3,23 +3,17 @@ owner: PuraVida-Technologies # Your GitHub organization or username, where this 
 repo: pura-vida-status # The name of this repository
 
 sites:
-  - name: Primary Site - Pura Vida Bitcoin
+  - name: Pura Vida Website
     url: https://puravidabitcoin.io/
-  - name: Pay - Pura Vida Bitcoin
+  - name: Pura Vida Pay
     url: https://pay.puravidabitcoin.io/
-  - name: Wallet - Pura Vida Bitcoin
+  - name: Pura Vida Web Wallet
     url: https://wallet.puravidabitcoin.io/
-  - name: Market - Pura Vida Bitcoin
+  - name: Pura Vida Merchants
+    url: https://merchants.puravidabitcoin.io/
+  - name: Pura Vida Market
     url: https://market.puravidabitcoin.io/
-  - name: Admin Market - Pura Vida Bitcoin
-    url: https://admin.market.puravidabitcoin.io/
-  - name: Specter - Pura Vida Bitcoin
-    url: https://specter.puravidabitcoin.io/
-  - name: Admin - Pura Vida Bitcoin
-    url: https://admin.puravidabitcoin.io/
-  - name: ArgoCD - Pura Vida Bitcoin
-    url: https://argocd.puravidabitcoin.io/
-  - name: API Exchange Rates - Pura Vida Bitcoin
+  - name: API - Exchange Rates
     url: https://api.puravidabitcoin.io/graphql
     method: POST
     headers:
@@ -29,12 +23,24 @@ sites:
       - "Pragma: no-cache"
     body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) {\\n  btcPriceList(range: $range) {\\n    timestamp\\n    price {\\n      base\\n      offset\\n      currencyUnit\\n      formattedAmount\\n    }\\n  }\\n}\\n"}'
 
+# Private Resources; we should transplant these elsewhere.
+#  - name: Admin Market - Pura Vida Bitcoin
+#    url: https://admin.market.puravidabitcoin.io/
+#  - name: Specter - Pura Vida Bitcoin
+#    url: https://specter.puravidabitcoin.io/
+#  - name: Admin - Pura Vida Bitcoin
+#    url: https://admin.puravidabitcoin.io/
+#  - name: ArgoCD - Pura Vida Bitcoin
+#    url: https://argocd.puravidabitcoin.io/
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /pura-vida-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  cname: status.puravidabitcoin.io
+  #baseUrl: /pura-vida-status
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: light
+  logoUrl: https://i0.wp.com/puravidabitcoin.io/wp-content/uploads/2023/03/Logo_H.png
   name: PuraVida Application Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)

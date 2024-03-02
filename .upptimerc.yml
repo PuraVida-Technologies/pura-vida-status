@@ -17,11 +17,9 @@ sites:
     url: https://api.puravidabitcoin.io/graphql
     method: POST
     headers:
-      - "Authority: api.puravidabitcoin.io"
       - "Content-Type: application/json"
-      - "Origin: https://api.puravidabitcoin.io"
-      - "Pragma: no-cache"
-    body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) {\\n  btcPriceList(range: $range) {\\n    timestamp\\n    price {\\n      base\\n      offset\\n      currencyUnit\\n      formattedAmount\\n    }\\n  }\\n}\\n"}'
+    body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) { btcPriceList(range: $range) { timestamp price { base offset currencyUnit formattedAmount } } }"}'
+
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin

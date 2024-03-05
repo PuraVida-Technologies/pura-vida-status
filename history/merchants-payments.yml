@@ -1,7 +1,7 @@
 url: https://webhooks.production.pvbtc.cloud/health
-status: down
-code: 503
-responseTime: 326
-lastUpdated: 2024-03-05T17:47:56.090Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2024-03-05T18:07:27.647Z
 startTime: 2024-03-05T01:10:30.884Z
 generator: Upptime <https://github.com/upptime/upptime>

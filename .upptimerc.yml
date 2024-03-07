@@ -27,7 +27,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"operationName": "homeUnauthed", "variables": {"range": "ONE_DAY"}, "query": "query homeUnauthed { globals { network } currencyList { id flag name symbol fractionDigits } }"}'
     __dangerous__body_down: "errors"
-  - name: Merchants Payments
+  - name: Pura Vida Merchants - Payment Forwarding
     url: https://webhooks.production.pvbtc.cloud/health
 
 # Private Resources; we should transplant these elsewhere.

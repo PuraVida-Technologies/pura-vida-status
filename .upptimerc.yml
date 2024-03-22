@@ -29,6 +29,8 @@ sites:
     __dangerous__body_down: "errors"
   - name: Pura Vida Merchants - Payment Forwarding
     url: https://webhooks.production.pvbtc.cloud/health
+  - name: Pura Vida ATMs
+    url: https://admin.atm.puravidabitcoin.io/
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin

@@ -13,6 +13,14 @@ sites:
     url: https://merchants.puravidabitcoin.io/
   - name: Pura Vida Market
     url: https://market.puravidabitcoin.io/
+  - name: Stablesats
+    url: https://aegis.puravidabitcoin.io/health/stablesats
+  - name: Bitcoin Node
+    url: https://aegis.puravidabitcoin.io/health/bitcoind
+  - name: Signer Node
+    url: https://aegis.puravidabitcoin.io/health/bitcoind-signer
+  - name: Lightning Node
+    url: https://aegis.puravidabitcoin.io/health/lnd
   - name: Pura Vida API
     url: https://api.puravidabitcoin.io/graphql
     method: POST

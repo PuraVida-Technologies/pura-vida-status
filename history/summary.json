@@ -161,9 +161,9 @@
     "url": "https://aegis.puravidabitcoin.io/health/lnd",
     "icon": "https://icons.duckduckgo.com/ip3/aegis.puravidabitcoin.io.ico",
     "slug": "lightning-node",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -172,7 +172,9 @@
     "timeWeek": 124,
     "timeMonth": 124,
     "timeYear": 124,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-06": 0
+    }
   },
   {
     "name": "Pura Vida API",
@@ -236,18 +238,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "down",
-    "uptime": "97.51%",
+    "uptime": "97.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "40.57%",
-    "uptimeMonth": "86.32%",
-    "uptimeYear": "97.51%",
+    "uptimeWeek": "36.67%",
+    "uptimeMonth": "85.43%",
+    "uptimeYear": "97.36%",
     "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-09-06": 19,
+      "2024-09-06": 411,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,

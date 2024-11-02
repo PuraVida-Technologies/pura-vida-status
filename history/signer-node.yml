@@ -1,7 +1,7 @@
 url: https://aegis.puravidabitcoin.io/health/bitcoind-signer
-status: up
-code: 200
-responseTime: 92
-lastUpdated: 2024-11-01T23:01:33.706Z
+status: down
+code: 502
+responseTime: 3128
+lastUpdated: 2024-11-02T11:18:08.977Z
 startTime: 2024-09-01T20:27:46.902Z
 generator: Upptime <https://github.com/upptime/upptime>

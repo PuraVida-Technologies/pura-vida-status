@@ -22,19 +22,19 @@
     "url": "https://pay.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/pay.puravidabitcoin.io.ico",
     "slug": "pura-vida-pay",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 495,
-    "timeWeek": 624,
-    "timeMonth": 601,
-    "timeYear": 366,
+    "time": 367,
+    "timeDay": 487,
+    "timeWeek": 606,
+    "timeMonth": 597,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2024-12-02": 1
+      "2024-12-02": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://wallet.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/wallet.puravidabitcoin.io.ico",
     "slug": "pura-vida-web-wallet",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 257,
-    "timeWeek": 237,
-    "timeMonth": 250,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 181,
+    "timeWeek": 221,
+    "timeMonth": 245,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2024-12-02": 1
+      "2024-12-02": 8
     }
   },
   {
@@ -159,7 +159,7 @@
     "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.78%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "98.67%",
     "time": 94,
     "timeDay": 35,
@@ -272,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-12-02": 1010,
+      "2024-12-02": 1017,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
       "2024-11-29": 1440,

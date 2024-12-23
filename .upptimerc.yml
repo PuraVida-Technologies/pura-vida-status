@@ -38,7 +38,8 @@ sites:
   - name: Pura Vida Merchants - Payment Forwarding
     url: https://webhooks.production.pvbtc.cloud/health
   - name: Pura Vida ATMs
-    url: http://admin.atm.puravidabitcoin.io/login
+    url: https://admin.atm.puravidabitcoin.io/login
+    __dangerous__disable_verify_peer: true
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin

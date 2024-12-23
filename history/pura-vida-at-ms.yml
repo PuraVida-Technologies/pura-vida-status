@@ -1,7 +1,7 @@
-url: http://admin.atm.puravidabitcoin.io/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-23T15:32:53.010Z
+url: https://admin.atm.puravidabitcoin.io/login
+status: up
+code: 200
+responseTime: 188
+lastUpdated: 2024-12-23T15:35:40.018Z
 startTime: 2024-03-22T16:07:31.687Z
 generator: Upptime <https://github.com/upptime/upptime>

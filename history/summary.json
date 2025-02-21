@@ -22,10 +22,10 @@
     "url": "https://pay.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/pay.puravidabitcoin.io.ico",
     "slug": "pura-vida-pay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
@@ -33,16 +33,18 @@
     "timeWeek": 462,
     "timeMonth": 619,
     "timeYear": 444,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 1
+    }
   },
   {
     "name": "Pura Vida Web Wallet",
     "url": "https://wallet.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/wallet.puravidabitcoin.io.ico",
     "slug": "pura-vida-web-wallet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 276,
     "timeMonth": 287,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "Pura Vida Merchants",
@@ -250,11 +254,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "up",
-    "uptime": "67.81%",
+    "uptime": "67.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.81%",
+    "uptimeYear": "67.85%",
     "time": 206,
     "timeDay": 269,
     "timeWeek": 196,

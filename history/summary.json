@@ -58,18 +58,20 @@
     "url": "https://merchants.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/merchants.puravidabitcoin.io.ico",
     "slug": "pura-vida-merchants",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 370,
-    "timeWeek": 408,
-    "timeMonth": 369,
+    "timeDay": 318,
+    "timeWeek": 390,
+    "timeMonth": 366,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-14": 0
+    }
   },
   {
     "name": "Pura Vida Market",

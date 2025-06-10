@@ -1,7 +1,7 @@
 url: https://webhooks.production.pvbtc.cloud/health
 status: up
 code: 200
-responseTime: 174
-lastUpdated: 2025-06-09T23:01:31.688Z
+responseTime: 200
+lastUpdated: 2025-06-10T23:01:18.229Z
 startTime: 2024-03-07T01:10:55.296Z
 generator: Upptime <https://github.com/upptime/upptime>

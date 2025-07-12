@@ -4,19 +4,19 @@
     "url": "https://puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/puravidabitcoin.io.ico",
     "slug": "pura-vida-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 204,
-    "timeWeek": 143,
+    "time": 291,
+    "timeDay": 222,
+    "timeWeek": 155,
     "timeMonth": 233,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-07-12": 0
+      "2025-07-12": 11
     }
   },
   {
@@ -166,7 +166,7 @@
     "uptime": "97.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.67%",
+    "uptimeMonth": "75.65%",
     "uptimeYear": "97.24%",
     "time": 621,
     "timeDay": 102,
@@ -174,7 +174,7 @@
     "timeMonth": 142,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-07-12": 298,
+      "2025-07-12": 309,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
       "2025-07-09": 1440,

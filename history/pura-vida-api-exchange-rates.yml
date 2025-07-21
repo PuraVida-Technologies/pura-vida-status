@@ -1,7 +1,7 @@
 url: https://api.puravidabitcoin.io/graphql
-status: up
+status: down
 code: 200
-responseTime: 50
-lastUpdated: 2025-07-20T23:01:17.773Z
+responseTime: 68
+lastUpdated: 2025-07-21T18:57:07.271Z
 startTime: 2024-03-02T01:14:22.522Z
 generator: Upptime <https://github.com/upptime/upptime>

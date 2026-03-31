@@ -7,8 +7,6 @@ sites:
     url: https://puravidabitcoin.io/
   - name: Pura Vida Pay
     url: https://pay.puravidabitcoin.io/
-  - name: Pura Vida Web Wallet
-    url: https://wallet.puravidabitcoin.io/
   - name: Pura Vida Merchants
     url: https://merchants.puravidabitcoin.io/
   - name: Pura Vida Market

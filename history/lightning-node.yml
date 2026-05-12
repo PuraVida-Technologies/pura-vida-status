@@ -1,7 +1,7 @@
 url: https://aegis.puravidabitcoin.io/health/lnd
-status: down
-code: 502
-responseTime: 315
-lastUpdated: 2026-05-12T20:58:48.935Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2026-05-12T21:35:40.102Z
 startTime: 2024-09-01T20:27:47.246Z
 generator: Upptime <https://github.com/upptime/upptime>

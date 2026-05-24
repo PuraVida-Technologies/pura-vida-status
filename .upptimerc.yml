@@ -2,6 +2,11 @@
 owner: PuraVida-Technologies # Your GitHub organization or username, where this repository lives
 repo: pura-vida-status # The name of this repository
 
+# Upptime is the off-cluster (GitHub) status page. It keeps BROAD,
+# product-level "is it up" checks plus an external watchdog. Finer-grained
+# per-service status now lives on the OneUptime status pages (devops-263):
+#   - Internal (VPN):    https://status.pvbtc.cloud/
+#   - Public, detailed:  https://status.detail.puravidabitcoin.io/
 sites:
   - name: Pura Vida Website
     url: https://puravidabitcoin.io/
@@ -11,14 +16,6 @@ sites:
     url: https://merchants.puravidabitcoin.io/
   - name: Pura Vida Market
     url: https://market.puravidabitcoin.io/
-  - name: Stablesats
-    url: https://aegis.puravidabitcoin.io/health/stablesats
-  - name: Bitcoin Node
-    url: https://aegis.puravidabitcoin.io/health/bitcoind
-  - name: Signer Node
-    url: https://aegis.puravidabitcoin.io/health/bitcoind-signer
-  - name: Lightning Node
-    url: https://aegis.puravidabitcoin.io/health/lnd
   - name: Pura Vida API
     url: https://api.puravidabitcoin.io/graphql
     method: POST
@@ -26,18 +23,18 @@ sites:
       - "Content-Type: application/json"
     body: '{"operationName":"btcPriceList","variables":{"range":"ONE_DAY"},"query":"query btcPriceList($range: PriceGraphRange!) { btcPriceList(range: $range) { timestamp price { base offset currencyUnit formattedAmount } } }"}'
     __dangerous__body_down: "errors"
-  - name: Pura Vida API - Exchange Rates
-    url: https://api.puravidabitcoin.io/graphql
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"operationName": "homeUnauthed", "variables": {"range": "ONE_DAY"}, "query": "query homeUnauthed { globals { network } currencyList { id flag name symbol fractionDigits } }"}'
-    __dangerous__body_down: "errors"
-  - name: Pura Vida Merchants - Payment Forwarding
-    url: https://webhooks.production.pvbtc.cloud/health
   - name: Pura Vida ATMs
     url: https://admin.atm.puravidabitcoin.io/login
     __dangerous__disable_verify_peer: true
+  # External watchdog: Upptime runs off-cluster, so a 200 here means the
+  # cluster, OneUptime, and the detailed public status page are all reachable
+  # from outside. This is what catches a full-cluster outage.
+  - name: Service Monitoring System
+    url: https://status.detail.puravidabitcoin.io/
+
+# Infra checks (Stablesats / Bitcoin / Lightning / Signer / Exchange-Rates /
+# Payment Forwarding) were moved to the OneUptime pages above and removed
+# here on purpose; the Signer in particular should not be on the public page.
 
 # Private Resources; we should transplant these elsewhere.
 #  - name: Admin Market - Pura Vida Bitcoin
@@ -51,19 +48,16 @@ sites:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.puravidabitcoin.io
-  #baseUrl: /pura-vida-status
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: light
   logoUrl: https://i0.wp.com/puravidabitcoin.io/wp-content/uploads/2023/03/Logo_H.png
   name: PuraVida Application Status
-  # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Status
+      href: /
+    - title: Detailed Status
+      href: https://status.detail.puravidabitcoin.io/
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

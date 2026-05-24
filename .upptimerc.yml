@@ -31,10 +31,6 @@ sites:
   # from outside. This is what catches a full-cluster outage.
   - name: Service Monitoring System
     url: https://status.detail.puravidabitcoin.io/
-  # TEMPORARY e2e Slack-notification test (devops-263). Non-resolving host
-  # so it reads DOWN and fires a Slack alert. Removed immediately after.
-  - name: E2E Slack Test (temporary)
-    url: https://e2e-slack-test.invalid/
 
 # Infra checks (Stablesats / Bitcoin / Lightning / Signer / Exchange-Rates /
 # Payment Forwarding) were moved to the OneUptime pages above and removed

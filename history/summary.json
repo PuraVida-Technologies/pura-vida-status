@@ -101,7 +101,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "up",
-    "uptime": "87.50%",
+    "uptime": "87.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -118,23 +118,24 @@
     "url": "https://status.detail.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.detail.puravidabitcoin.io.ico",
     "slug": "service-monitoring-system",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.61%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 261,
-    "timeDay": 274,
-    "timeWeek": 244,
-    "timeMonth": 287,
+    "timeDay": 252,
+    "timeWeek": 242,
+    "timeMonth": 285,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-07-19": 64,
       "2026-07-20": 100,
       "2026-07-21": 92,
       "2026-07-23": 89,
-      "2026-07-26": 61
+      "2026-07-26": 61,
+      "2026-08-03": 0
     }
   }
 ]

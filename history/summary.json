@@ -40,19 +40,20 @@
     "url": "https://merchants.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/merchants.puravidabitcoin.io.ico",
     "slug": "pura-vida-merchants",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.87%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 423,
-    "timeDay": 544,
+    "timeDay": 577,
     "timeWeek": 580,
     "timeMonth": 577,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-08-06": 59
+      "2026-08-06": 59,
+      "2026-08-07": 0
     }
   },
   {
@@ -103,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "up",
-    "uptime": "87.56%",
+    "uptime": "87.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

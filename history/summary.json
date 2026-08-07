@@ -42,9 +42,9 @@
     "slug": "pura-vida-merchants",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "76.42%",
-    "uptimeWeek": "96.05%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "75.27%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.92%",
     "time": 421,
     "timeDay": 310,
@@ -53,7 +53,7 @@
     "timeYear": 438,
     "dailyMinutesDown": {
       "2026-08-06": 59,
-      "2026-08-07": 340
+      "2026-08-07": 356
     }
   },
   {
@@ -103,17 +103,17 @@
     "url": "https://status.detail.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.detail.puravidabitcoin.io.ico",
     "slug": "service-monitoring-system",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "99.53%",
-    "time": 267,
-    "timeDay": 227,
-    "timeWeek": 306,
-    "timeMonth": 296,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.52%",
+    "time": 270,
+    "timeDay": 290,
+    "timeWeek": 324,
+    "timeMonth": 301,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2026-07-19": 64,
       "2026-07-20": 100,
@@ -121,7 +121,7 @@
       "2026-07-23": 89,
       "2026-07-26": 61,
       "2026-08-03": 103,
-      "2026-08-07": 0
+      "2026-08-07": 17
     }
   }
 ]

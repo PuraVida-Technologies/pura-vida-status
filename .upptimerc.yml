@@ -14,8 +14,9 @@ sites:
     url: https://pay.puravidabitcoin.io/
   - name: Pura Vida Merchants
     url: https://merchants.puravidabitcoin.io/
-  - name: Pura Vida Market
-    url: https://market.puravidabitcoin.io/
+  # Market is mothballed (devops-337, 2026-08-07); uncomment on revival.
+  #  - name: Pura Vida Market
+  #    url: https://market.puravidabitcoin.io/
   - name: Pura Vida API
     url: https://api.puravidabitcoin.io/graphql
     method: POST

@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 163,
     "timeDay": 94,
-    "timeWeek": 151,
+    "timeWeek": 150,
     "timeMonth": 140,
     "timeYear": 144,
     "dailyMinutesDown": {}
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 694,
     "timeDay": 1073,
-    "timeWeek": 1716,
-    "timeMonth": 1098,
+    "timeWeek": 1576,
+    "timeMonth": 1113,
     "timeYear": 724,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,19 @@
     "slug": "pura-vida-merchants",
     "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "75.27%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "72.28%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "99.91%",
     "time": 421,
     "timeDay": 310,
-    "timeWeek": 507,
-    "timeMonth": 554,
+    "timeWeek": 534,
+    "timeMonth": 556,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2026-08-06": 59,
-      "2026-08-07": 356
+      "2026-08-08": 21,
+      "2026-08-07": 378
     }
   },
   {
@@ -69,8 +70,8 @@
     "uptimeYear": "99.96%",
     "time": 330,
     "timeDay": 309,
-    "timeWeek": 374,
-    "timeMonth": 417,
+    "timeWeek": 385,
+    "timeMonth": 420,
     "timeYear": 357,
     "dailyMinutesDown": {
       "2025-08-24": 133,
@@ -93,8 +94,8 @@
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 272,
-    "timeWeek": 302,
-    "timeMonth": 241,
+    "timeWeek": 308,
+    "timeMonth": 240,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -111,7 +112,7 @@
     "uptimeYear": "99.52%",
     "time": 270,
     "timeDay": 290,
-    "timeWeek": 324,
+    "timeWeek": 325,
     "timeMonth": 301,
     "timeYear": 270,
     "dailyMinutesDown": {

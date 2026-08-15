@@ -1,7 +1,7 @@
 url: https://status.detail.puravidabitcoin.io/
-status: up
-code: 200
-responseTime: 536
-lastUpdated: 2026-08-14T23:08:00.889Z
+status: down
+code: 503
+responseTime: 177
+lastUpdated: 2026-08-15T07:37:21.102Z
 startTime: 2026-05-24T04:31:26.469Z
 generator: Upptime <https://github.com/upptime/upptime>

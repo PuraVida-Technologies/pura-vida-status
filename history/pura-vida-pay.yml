@@ -1,7 +1,7 @@
 url: https://pay.puravidabitcoin.io/
-status: down
-code: 503
-responseTime: 199
-lastUpdated: 2026-09-18T11:17:40.751Z
+status: up
+code: 200
+responseTime: 1908
+lastUpdated: 2026-09-18T11:27:30.815Z
 startTime: 2023-12-26T01:29:32.380Z
 generator: Upptime <https://github.com/upptime/upptime>

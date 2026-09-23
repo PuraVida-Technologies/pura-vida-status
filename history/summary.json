@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 179,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 134,
+    "timeDay": 268,
+    "timeWeek": 178,
+    "timeMonth": 179,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 20758,
-    "timeWeek": 3376,
-    "timeMonth": 1457,
-    "timeYear": 861,
+    "time": 797,
+    "timeDay": 2003,
+    "timeWeek": 3420,
+    "timeMonth": 1498,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2026-08-10": 15
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 351,
-    "timeDay": 1427,
-    "timeWeek": 576,
-    "timeMonth": 536,
-    "timeYear": 393,
+    "timeDay": 329,
+    "timeWeek": 564,
+    "timeMonth": 539,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-04-26": 20,
       "2026-05-14": 57,
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 220,
-    "timeDay": 238,
-    "timeWeek": 268,
-    "timeMonth": 269,
+    "timeDay": 221,
+    "timeWeek": 272,
+    "timeMonth": 271,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -84,16 +84,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.detail.puravidabitcoin.io.ico",
     "slug": "service-monitoring-system",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.69%",
-    "time": 276,
-    "timeDay": 443,
-    "timeWeek": 371,
-    "timeMonth": 307,
-    "timeYear": 276,
+    "uptime": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.70%",
+    "time": 277,
+    "timeDay": 405,
+    "timeWeek": 385,
+    "timeMonth": 313,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2026-07-19": 64,
       "2026-07-20": 100,
@@ -101,8 +101,7 @@
       "2026-07-23": 89,
       "2026-07-26": 61,
       "2026-08-03": 103,
-      "2026-08-07": 17,
-      "2026-09-22": 11
+      "2026-08-07": 17
     }
   }
 ]

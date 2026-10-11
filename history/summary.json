@@ -22,19 +22,20 @@
     "url": "https://pay.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/pay.puravidabitcoin.io.ico",
     "slug": "pura-vida-pay",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 763,
+    "time": 764,
     "timeDay": 790,
     "timeWeek": 949,
     "timeMonth": 1731,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2026-08-10": 15
+      "2026-08-10": 15,
+      "2026-10-11": 10
     }
   },
   {
@@ -42,11 +43,11 @@
     "url": "https://api.puravidabitcoin.io/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/api.puravidabitcoin.io.ico",
     "slug": "pura-vida-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 353,
     "timeDay": 299,
@@ -57,7 +58,8 @@
       "2026-04-26": 20,
       "2026-05-14": 57,
       "2026-08-14": 24,
-      "2026-08-25": 20
+      "2026-08-25": 20,
+      "2026-10-11": 5
     }
   },
   {
@@ -66,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "up",
-    "uptime": "88.42%",
+    "uptime": "88.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -83,16 +85,16 @@
     "url": "https://status.detail.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.detail.puravidabitcoin.io.ico",
     "slug": "service-monitoring-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 282,
     "timeDay": 308,
     "timeWeek": 378,
-    "timeMonth": 339,
+    "timeMonth": 335,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2026-07-19": 64,
@@ -101,7 +103,8 @@
       "2026-07-23": 89,
       "2026-07-26": 61,
       "2026-08-03": 103,
-      "2026-08-07": 17
+      "2026-08-07": 17,
+      "2026-10-11": 0
     }
   }
 ]

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 31,
-    "timeWeek": 116,
-    "timeMonth": 162,
+    "timeDay": 154,
+    "timeWeek": 109,
+    "timeMonth": 157,
     "timeYear": 139,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 329,
-    "timeWeek": 503,
-    "timeMonth": 757,
-    "timeYear": 883,
+    "time": 772,
+    "timeDay": 258,
+    "timeWeek": 499,
+    "timeMonth": 732,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2026-08-10": 15
     }
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 358,
-    "timeDay": 295,
-    "timeWeek": 325,
-    "timeMonth": 382,
+    "time": 359,
+    "timeDay": 402,
+    "timeWeek": 356,
+    "timeMonth": 384,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2026-04-26": 20,
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 48,
-    "timeWeek": 183,
-    "timeMonth": 234,
+    "timeDay": 170,
+    "timeWeek": 190,
+    "timeMonth": 235,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -85,14 +85,14 @@
     "slug": "service-monitoring-system",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 283,
-    "timeDay": 283,
-    "timeWeek": 261,
-    "timeMonth": 311,
+    "timeDay": 333,
+    "timeWeek": 274,
+    "timeMonth": 309,
     "timeYear": 283,
     "dailyMinutesDown": {
       "2026-07-19": 64,
@@ -101,8 +101,7 @@
       "2026-07-23": 89,
       "2026-07-26": 61,
       "2026-08-03": 103,
-      "2026-08-07": 17,
-      "2026-11-01": 6
+      "2026-08-07": 17
     }
   }
 ]

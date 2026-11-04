@@ -83,17 +83,17 @@
     "url": "https://status.detail.puravidabitcoin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/status.detail.puravidabitcoin.io.ico",
     "slug": "service-monitoring-system",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 282,
-    "timeDay": 232,
-    "timeWeek": 277,
-    "timeMonth": 299,
-    "timeYear": 282,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.77%",
+    "time": 285,
+    "timeDay": 462,
+    "timeWeek": 320,
+    "timeMonth": 314,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2026-07-19": 64,
       "2026-07-20": 100,
@@ -102,7 +102,7 @@
       "2026-07-26": 61,
       "2026-08-03": 103,
       "2026-08-07": 17,
-      "2026-11-04": 0
+      "2026-11-04": 9
     }
   }
 ]

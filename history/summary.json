@@ -85,9 +85,9 @@
     "slug": "service-monitoring-system",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 294,
     "timeDay": 279,
@@ -103,8 +103,7 @@
       "2026-08-03": 103,
       "2026-08-07": 17,
       "2026-11-09": 33,
-      "2026-11-12": 7,
-      "2026-11-17": 7
+      "2026-11-12": 7
     }
   }
 ]

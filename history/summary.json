@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 135,
-    "timeWeek": 126,
-    "timeMonth": 141,
+    "timeDay": 108,
+    "timeWeek": 120,
+    "timeMonth": 144,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 786,
-    "timeDay": 1545,
-    "timeWeek": 1060,
-    "timeMonth": 752,
-    "timeYear": 884,
+    "timeDay": 618,
+    "timeWeek": 847,
+    "timeMonth": 760,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2026-08-10": 15
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 366,
-    "timeDay": 240,
-    "timeWeek": 402,
-    "timeMonth": 434,
+    "timeDay": 377,
+    "timeWeek": 346,
+    "timeMonth": 438,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2026-04-26": 20,
@@ -66,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.atm.puravidabitcoin.io.ico",
     "slug": "pura-vida-at-ms",
     "status": "up",
-    "uptime": "88.88%",
+    "uptime": "88.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 211,
-    "timeWeek": 208,
-    "timeMonth": 246,
+    "timeDay": 329,
+    "timeWeek": 226,
+    "timeMonth": 252,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -85,14 +85,14 @@
     "slug": "service-monitoring-system",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
     "time": 294,
-    "timeDay": 241,
-    "timeWeek": 321,
-    "timeMonth": 313,
+    "timeDay": 236,
+    "timeWeek": 329,
+    "timeMonth": 315,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2026-07-19": 64,
@@ -103,8 +103,7 @@
       "2026-08-03": 103,
       "2026-08-07": 17,
       "2026-11-09": 33,
-      "2026-11-12": 7,
-      "2026-11-18": 7
+      "2026-11-12": 7
     }
   }
 ]
